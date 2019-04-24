@@ -4,6 +4,6 @@
 
 ### H3
 
-* red  red
-* blue blue
-* green green
+* red  
+* blue 
+* green 
